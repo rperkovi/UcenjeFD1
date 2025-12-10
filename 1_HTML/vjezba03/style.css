@@ -1,9 +1,9 @@
-
+/* https://htmlcheatsheet.com/css */
 body{
-background: #1C6EA4;
-background: -moz-linear-gradient(left, #1C6EA4 0%, #2388CB 50%, #144E75 100%);
-background: -webkit-linear-gradient(left, #1C6EA4 0%, #2388CB 50%, #144E75 100%);
-background: linear-gradient(to right, #1C6EA4 0%, #2388CB 50%, #144E75 100%);
+background: #79A488;
+background: -moz-linear-gradient(-45deg, #79A488 0%, #2388CB 50%, #144E75 100%);
+background: -webkit-linear-gradient(-45deg, #79A488 0%, #2388CB 50%, #144E75 100%);
+background: linear-gradient(135deg, #79A488 0%, #2388CB 50%, #144E75 100%);
 
 }
 
@@ -29,7 +29,5 @@ div{
     border-radius: 1rem;
     padding: 2rem;
     font-size: 2rem;
-
-
 
 }
