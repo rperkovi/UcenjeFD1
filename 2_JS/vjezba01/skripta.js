@@ -1,5 +1,5 @@
 console.info('Hello world 5');
-console.table(JSON.parse('{"name"'));
+console.table(JSON.parse('{"name":"John'));
 
 console.log('O\'Neal');//\altgr+q
 console.log("O'Neal");
