@@ -23,6 +23,6 @@ obrazac.addEventListener('submit', (dogadaj) => {
         document.getElementById('naziv-projekta').focus();
     } catch (pogreska) {
         kontejnerPogreske.innerText = '⚠️ ' + pogreska.message;
-        console.warn('Provjera valjanosti podataka nije uspjela:', pogreska.message, pogreska);
+     //   console.warn('Provjera valjanosti podataka nije uspjela:', pogreska.message, pogreska);
     }
 });
